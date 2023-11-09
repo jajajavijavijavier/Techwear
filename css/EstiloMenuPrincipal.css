@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image: url("https://i.pinimg.com/736x/a5/b0/e9/a5b0e9b71f68b1f79ce680e0cf916fe7.jpg");
+	 text-align: center;
+	  margin: 50px;
+	  border-style: inset;
+}
+
+#navbarNav{
+	
+	text-align: center;
+}
+
+.jumbotron {
+	background:#ADDF3B;
+	color: #fff;
+}
